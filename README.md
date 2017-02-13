@@ -11,3 +11,5 @@ works as the base project, but you can enable clustering by adding:
 ```
 
 inside the `json` part of maps options.
+
+For any usage, please refer to the [license](LICENSE)
